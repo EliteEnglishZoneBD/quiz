@@ -1,0 +1,427 @@
+[
+  {
+    "question":"Q1: What is the past tense of 'go'?",
+    "type":"mcq",
+    "options":["goed","went","gone","going"],
+    "answer":1,
+    "explanation":"'Went' is correct.",
+    "category":"grammar",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q2: Fill in the blank: She _______ (eat) breakfast yesterday.",
+    "type":"fill",
+    "answer":"ate",
+    "explanation":"'Ate' is the past tense of 'eat'.",
+    "category":"grammar",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q3: What is H2O commonly known as?",
+    "type":"mcq",
+    "options":["Salt","Water","Oxygen","Hydrogen"],
+    "answer":1,
+    "explanation":"H2O = Water.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q4: Short answer: Explain the difference between 'affect' and 'effect'.",
+    "type":"short",
+    "answer":"Affect is a verb; effect is a noun.",
+    "explanation":"'Affect' means to influence; 'effect' is the result.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q5: Which gas do humans inhale?",
+    "type":"mcq",
+    "options":["Carbon dioxide","Oxygen","Nitrogen","Hydrogen"],
+    "answer":1,
+    "explanation":"Humans inhale Oxygen.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q6: Fill in the blank: He _______ (write) a letter yesterday.",
+    "type":"fill",
+    "answer":"wrote",
+    "explanation":"'Wrote' is correct.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q7: What is the freezing point of water in Celsius?",
+    "type":"mcq",
+    "options":["0","100","32","-273"],
+    "answer":0,
+    "explanation":"Water freezes at 0°C.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q8: Short answer: Give one example of a renewable energy source.",
+    "type":"short",
+    "answer":"Solar energy",
+    "explanation":"Solar energy is a renewable energy source.",
+    "category":"science",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q9: MCQ: Choose the correct passive form: 'She writes a letter.'",
+    "type":"mcq",
+    "options":["A letter is written by her","She is written by a letter","A letter writes by her","Written a letter by her"],
+    "answer":0,
+    "explanation":"Correct passive: 'A letter is written by her'.",
+    "category":"grammar",
+    "difficulty":"hard"
+  },
+  {
+    "question":"Q10: Fill in the blank: They _______ (go) to the park every Sunday.",
+    "type":"fill",
+    "answer":"go",
+    "explanation":"Present tense plural: 'They go'.",
+    "category":"grammar",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q11: MCQ: Which planet is known as the Red Planet?",
+    "type":"mcq",
+    "options":["Earth","Mars","Jupiter","Venus"],
+    "answer":1,
+    "explanation":"Mars is called the Red Planet.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q12: Short answer: What is the main function of the heart?",
+    "type":"short",
+    "answer":"Pump blood",
+    "explanation":"The heart pumps blood throughout the body.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q13: MCQ: Select the correct sentence.",
+    "type":"mcq",
+    "options":["He don't like apples","He doesn't like apples","He not like apples","He isn't like apples"],
+    "answer":1,
+    "explanation":"Correct form: 'He doesn't like apples'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q14: Fill in the blank: I have _______ (read) this book before.",
+    "type":"fill",
+    "answer":"read",
+    "explanation":"Present perfect tense: 'have read'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q15: MCQ: Which of the following is a non-renewable energy source?",
+    "type":"mcq",
+    "options":["Coal","Solar","Wind","Hydro"],
+    "answer":0,
+    "explanation":"Coal is non-renewable; others are renewable.",
+    "category":"science",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q16: Short answer: Define 'photosynthesis'.",
+    "type":"short",
+    "answer":"Process by which plants make food using sunlight",
+    "explanation":"Photosynthesis is the process in which plants convert sunlight into chemical energy.",
+    "category":"science",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q17: MCQ: Choose the correct form: 'I _____ to the store yesterday.'",
+    "type":"mcq",
+    "options":["go","went","gone","going"],
+    "answer":1,
+    "explanation":"Past tense of 'go' is 'went'.",
+    "category":"grammar",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q18: Fill in the blank: She _______ (not/like) spicy food.",
+    "type":"fill",
+    "answer":"does not like",
+    "explanation":"Negative present tense: 'does not like'.",
+    "category":"grammar",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q19: MCQ: Which organ filters blood in the human body?",
+    "type":"mcq",
+    "options":["Heart","Kidneys","Lungs","Liver"],
+    "answer":1,
+    "explanation":"Kidneys filter blood and produce urine.",
+    "category":"science",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q20: Short answer: What is the chemical symbol for Sodium?",
+    "type":"short",
+    "answer":"Na",
+    "explanation":"The chemical symbol for Sodium is Na.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q21: MCQ: Identify the correct sentence.",
+    "type":"mcq",
+    "options":["He have finished work","He has finished work","He had finish work","He has finishing work"],
+    "answer":1,
+    "explanation":"Correct present perfect: 'He has finished work'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q22: Fill in the blank: We _______ (watch) a movie now.",
+    "type":"fill",
+    "answer":"are watching",
+    "explanation":"Present continuous tense: 'are watching'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q23: MCQ: Which is the largest planet in our solar system?",
+    "type":"mcq",
+    "options":["Earth","Jupiter","Mars","Venus"],
+    "answer":1,
+    "explanation":"Jupiter is the largest planet.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q24: Short answer: Name one greenhouse gas.",
+    "type":"short",
+    "answer":"Carbon dioxide",
+    "explanation":"CO₂ is a major greenhouse gas causing global warming.",
+    "category":"science",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q25: MCQ: Select the correct comparative form: 'fast'.",
+    "type":"mcq",
+    "options":["fastest","faster","more fast","most fast"],
+    "answer":1,
+    "explanation":"Comparative form of 'fast' is 'faster'.",
+    "category":"grammar",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q26: Fill in the blank: He _______ (study) English for 5 years.",
+    "type":"fill",
+    "answer":"has studied",
+    "explanation":"Present perfect tense: 'has studied'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q27: MCQ: Which part of the plant conducts water from roots to leaves?",
+    "type":"mcq",
+    "options":["Root","Stem","Leaf","Flower"],
+    "answer":1,
+    "explanation":"Stem (xylem) conducts water.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q28: Short answer: Name the process by which liquid changes to gas.",
+    "type":"short",
+    "answer":"Evaporation",
+    "explanation":"Evaporation is the process of liquid changing to gas.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q29: MCQ: Choose the correct article: 'I saw ___ eagle in the sky.'",
+    "type":"mcq",
+    "options":["a","an","the","no article"],
+    "answer":1,
+    "explanation":"Use 'an' before a vowel sound: 'an eagle'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q30: Fill in the blank: They _______ (plan) a trip next week.",
+    "type":"fill",
+    "answer":"are planning",
+    "explanation":"Future plan: present continuous 'are planning'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q31: Short answer: What is the function of the lungs?",
+    "type":"short",
+    "answer":"To exchange oxygen and carbon dioxide",
+    "explanation":"Lungs allow oxygen to enter the blood and remove carbon dioxide.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q32: MCQ: Choose the correct sentence.",
+    "type":"mcq",
+    "options":["He have gone to school","He has gone to school","He had go to school","He gone to school"],
+    "answer":1,
+    "explanation":"Present perfect: 'He has gone to school'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q33: Fill in the blank: They _______ (finish) their homework already.",
+    "type":"fill",
+    "answer":"have finished",
+    "explanation":"Present perfect tense: 'have finished'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q34: MCQ: What is the boiling point of water at sea level in Celsius?",
+    "type":"mcq",
+    "options":["0","50","100","212"],
+    "answer":2,
+    "explanation":"Water boils at 100°C at sea level.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q35: Short answer: Name one non-renewable energy source.",
+    "type":"short",
+    "answer":"Coal",
+    "explanation":"Coal is a non-renewable energy source.",
+    "category":"science",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q36: MCQ: Select the correct sentence.",
+    "type":"mcq",
+    "options":["She don't like tea","She doesn't likes tea","She doesn't like tea","She no likes tea"],
+    "answer":2,
+    "explanation":"Correct: 'She doesn't like tea'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q37: Fill in the blank: He _______ (study) English since morning.",
+    "type":"fill",
+    "answer":"has been studying",
+    "explanation":"Present perfect continuous tense: 'has been studying'.",
+    "category":"grammar",
+    "difficulty":"hard"
+  },
+  {
+    "question":"Q38: MCQ: Which planet is known for its rings?",
+    "type":"mcq",
+    "options":["Mars","Saturn","Jupiter","Venus"],
+    "answer":1,
+    "explanation":"Saturn is famous for its rings.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q39: Short answer: What is the main gas responsible for global warming?",
+    "type":"short",
+    "answer":"Carbon dioxide",
+    "explanation":"CO₂ is the main greenhouse gas causing global warming.",
+    "category":"science",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q40: MCQ: Choose the correct sentence.",
+    "type":"mcq",
+    "options":["If I will go, I will call you","If I go, I will call you","If I goes, I will call you","If I went, I will call you"],
+    "answer":1,
+    "explanation":"Correct conditional: 'If I go, I will call you'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q41: Fill in the blank: She _______ (write) a letter when I called her.",
+    "type":"fill",
+    "answer":"was writing",
+    "explanation":"Past continuous tense: 'was writing'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q42: MCQ: Which organ produces insulin?",
+    "type":"mcq",
+    "options":["Liver","Pancreas","Kidney","Heart"],
+    "answer":1,
+    "explanation":"Pancreas produces insulin.",
+    "category":"science",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q43: Short answer: Name one compound of water.",
+    "type":"short",
+    "answer":"H2O",
+    "explanation":"Water chemical formula is H2O.",
+    "category":"science",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q44: MCQ: Choose the correct synonym of 'happy'.",
+    "type":"mcq",
+    "options":["Sad","Joyful","Angry","Tired"],
+    "answer":1,
+    "explanation":"'Joyful' is a synonym for 'happy'.",
+    "category":"vocabulary",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q45: Fill in the blank: We _______ (meet) tomorrow at 5 PM.",
+    "type":"fill",
+    "answer":"will meet",
+    "explanation":"Future tense: 'will meet'.",
+    "category":"grammar",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q46: MCQ: Which blood cells help fight infection?",
+    "type":"mcq",
+    "options":["Red blood cells","White blood cells","Platelets","Plasma"],
+    "answer":1,
+    "explanation":"White blood cells fight infections.",
+    "category":"science",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q47: Short answer: Give one example of a simile.",
+    "type":"short",
+    "answer":"As brave as a lion",
+    "explanation":"A simile compares using 'like' or 'as'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q48: MCQ: Choose the correct plural form of 'child'.",
+    "type":"mcq",
+    "options":["Childs","Childes","Children","Child"],
+    "answer":2,
+    "explanation":"Plural of 'child' is 'children'.",
+    "category":"grammar",
+    "difficulty":"easy"
+  },
+  {
+    "question":"Q49: Fill in the blank: He _______ (not/come) to the party yesterday.",
+    "type":"fill",
+    "answer":"did not come",
+    "explanation":"Past simple negative: 'did not come'.",
+    "category":"grammar",
+    "difficulty":"medium"
+  },
+  {
+    "question":"Q50: MCQ: Which of the following is a renewable energy source?",
+    "type":"mcq",
+    "options":["Oil","Natural gas","Solar","Coal"],
+    "answer":2,
+    "explanation":"Solar energy is renewable.",
+    "category":"science",
+    "difficulty":"easy"
+  }
+]
